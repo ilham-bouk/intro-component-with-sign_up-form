@@ -16,7 +16,7 @@ body {
   /* - Weights: 400, 500, 600, 700 - Font size: 16px*/
 }
 .container {
-  background-image: url(/images/bg-intro-desktop.png);
+  background-image: url(./images/bg-intro-desktop.png);
   background-size: cover;
   background-color: var(--primary-red);
   display: flex;
