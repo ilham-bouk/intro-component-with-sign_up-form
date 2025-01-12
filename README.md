@@ -32,7 +32,7 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ### Links
 
-- Solution URL: [Solution URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form--iggu-J4G)
 - Live Site URL: [Live site URL](https://ilham-bouk.github.io/intro-component-with-sign_up-form/)
 
 ## My process
@@ -59,6 +59,6 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on [my solution](https://www.frontendmentor.io/solutions/intro-component-with-sign-up-form--iggu-J4G). It definitely helps to find new ways to code and find easier solutions!
 
 **Happy coding!** ☺️🚀
