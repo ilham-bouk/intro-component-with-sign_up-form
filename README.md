@@ -1,14 +1,9 @@
-# intro-component-with-sign_up-form 
-https://ilham-bouk.github.io/intro-component-with-sign_up-form/
-
-
-# Frontend Mentor - Project tracking intro component solution
-
-![Design preview for the Project tracking intro component coding challenge](design/desktop-preview.jpg)
+# Frontend Mentor -  Intro Component With Sign_up Form solution
+![Design preview for the Intro Component With Sign_up Form coding challenge](design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
-Thanks for checking out my solution of Project tracking intro component front-end coding challenge from Frontend Mentor.<br>
+Thanks for checking out my solution of Intro Component With Sign_up Form front-end coding challenge from Frontend Mentor.<br>
 [Frontend Mentor](https://www.frontendmentor.io) challenges improve coding skills by building realistic projects.
 
 ## Table of contents
@@ -26,13 +21,12 @@ Thanks for checking out my solution of Project tracking intro component front-en
 
 ### The challenge
 
-This challenge will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the focus is HTML & CSS. The challenge is to build out this landing page and get it looking as close to the design as possible.
+Practice building out a sign-up form complete with client-side validation using JavaScript. The challenge is to build out this landing page and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Create the background shape using code
+- View the optimal layout depending on their device's screen size. 2. See hover states for all interactive elements on the page.
+- Submit their email address using an input field.
+- Receive an error message when the form is submitted if the input field is empty & the email address is not formatted correctly.
 
 I do not have access to the Figma sketch so the design is not pixel perfect.
 
