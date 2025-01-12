@@ -32,8 +32,8 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/project-tracking-intro-component-solution-tl-yrA8B4J)
-- Live Site URL: [Live site URL](https://ilham-bouk.github.io/Project-tracking-intro-component/)
+- Solution URL: [Solution URL]()
+- Live Site URL: [Live site URL](https://ilham-bouk.github.io/intro-component-with-sign_up-form/)
 
 ## My process
 
@@ -43,7 +43,6 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 - CSS custom properties
 - JavaScript
 - Flexbox
-- CSS Grid
 - Desktop-first workflow
 
 You will find all the required assets in the `/design` folder. The assets are already optimized.<br>
@@ -60,6 +59,6 @@ There is also a `style-guide.md` file containing the information you'll need, su
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on [my solution](https://www.frontendmentor.io/solutions/project-tracking-intro-component-solution-tl-yrA8B4J). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
 
 **Happy coding!** ☺️🚀
